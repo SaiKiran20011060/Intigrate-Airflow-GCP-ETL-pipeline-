@@ -41,3 +41,4 @@ def generate_sales_data():
 
 if __name__ == "__main__":
     generate_sales_data()
+
